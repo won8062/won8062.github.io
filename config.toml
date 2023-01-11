@@ -1,0 +1,11 @@
+baseURL = 'https://henry.github.io/'
+languageCode = 'en-us'
+title = 'Henry Blog'
+theme = "mainroad"
+
+paginate = 7
+canonifyurls = true
+
+[permalinks]
+  post = "/:year/:month/:slug/"
+
