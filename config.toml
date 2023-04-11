@@ -1,7 +1,7 @@
 baseURL = 'https://won8062.github.io'
 languageCode = 'en-us'
 title = 'Henry Blog'
-theme = "mainroad"
+theme = "Mainroad"
 
 paginate = 7
 canonifyurls = true
