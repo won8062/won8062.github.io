@@ -8,4 +8,3 @@ canonifyurls = true
 
 [permalinks]
   post = "/:year/:month/:slug/"
-
